@@ -6,10 +6,11 @@ There are several combinations to pick from (all German ftm):
 
 * animated gif and (static) png
 * 5 different backgrounds
-* Static badges for Attendees, Organizers, Speakers, Sponsors (singular and plural), Volunteersi
+* Static badges for Attendees, Organizers, Speakers, Sponsors (singular and plural), Volunteers
 
 ## How to use
 
+Download the file you wish to use from this repository and upload it to your web host. Although we are not necessarily encouraging hotlinking, you could also link to the file directly on github.
 
 ## Animated
 
