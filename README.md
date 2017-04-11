@@ -14,12 +14,12 @@ Download the file you wish to use from this repository and upload it to your web
 
 ## Animated
 
-<img src="./neutral/gif/neutral-1.gif" width="32%">
-<img src="./neutral/gif/neutral-2.gif" width="32%">
-<img src="./neutral/gif/neutral-3.gif" width="32%">
-<img src="./neutral/gif/neutral-4.gif" width="32%">
-<img src="./neutral/gif/neutral-5.gif" width="32%">
-<img src="./neutral/gif/neutral.gif" width="32%">
+<img src="./neutral/neutral-1.gif" width="32%">
+<img src="./neutral/neutral-2.gif" width="32%">
+<img src="./neutral/neutral-3.gif" width="32%">
+<img src="./neutral/neutral-4.gif" width="32%">
+<img src="./neutral/neutral-5.gif" width="32%">
+<img src="./neutral/neutral.gif" width="32%">
 
 ## Attendees
 
