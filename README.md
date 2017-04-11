@@ -6,7 +6,7 @@ There are several combinations to pick from (all German ftm):
 
 * animated gif and (static) png
 * 5 different backgrounds
-* Static badges for Attendees, Organizers, Speakers, Sponsors (singular and plural), Volunteers
+* Static badges for Attendees, Organizers, Speakers, Sponsors (singular and plural), Volunteersi
 
 ## How to use
 
@@ -72,9 +72,8 @@ There are several combinations to pick from (all German ftm):
 
 ## License
 
-The badges are licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).<br>
-The original background images have been licensed under [CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) by [Alexander Goller](https://alexandergoller.com).<br> 
-Specific rights of use have been granted to WordCamp Berlin, allowing the badges to be distributed under a CC0 license.
+The WordPress and WordCamp names and logo are licensed by the [http://wordpressfoundation.org/trademark-policy/](WordPress Foundation).  
+The original background images are copyrighted by [Alexander Goller](https://alexandergoller.com). The right of use have been granted to WordCamp Berlin, the creation of the badges and the use on the webpage for [WordCamp Berlin 2017](https://2017.berlin.wordcamp.org/).<br>
 
 ### Want to create your own version?
 Make sure you have [`git lfs`](https://git-lfs.github.com/) installed. <br>
