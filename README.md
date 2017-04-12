@@ -14,40 +14,40 @@ Download the file you wish to use from this repository and upload it to your web
 
 ## Animated
 
-<img src="./neutral/neutral-1.gif" width="48%"><img src="./neutral/neutral-2.gif" width="48%">
-<img src="./neutral/neutral-3.gif" width="48%"><img src="./neutral/neutral-4.gif" width="48%">
-<img src="./neutral/neutral-5.gif" width="48%"><img src="./neutral/neutral.gif" width="48%">
+<img src="./neutral/neutral-1.gif" width="48%"> <img src="./neutral/neutral-2.gif" width="48%">
+<img src="./neutral/neutral-3.gif" width="48%"> <img src="./neutral/neutral-4.gif" width="48%">
+<img src="./neutral/neutral-5.gif" width="48%"> <img src="./neutral/neutral.gif" width="48%">
 
 ## Attendees
 
-<img src="./attendee/attendee-de-1.png" width="48%"><img src="./attendee/attendee-de-2.png" width="48%">
-<img src="./attendee/attendee-de-3.png" width="48%"><img src="./attendee/attendee-de-4.png" width="48%">
+<img src="./attendee/attendee-de-1.png" width="48%"> <img src="./attendee/attendee-de-2.png" width="48%">
+<img src="./attendee/attendee-de-3.png" width="48%"> <img src="./attendee/attendee-de-4.png" width="48%">
 <img src="./attendee/attendee-de-5.png" width="48%">
 
 ## Organizers
 
-<img src="./orga/orga-de-1.png" width="48%"><img src="./orga/orga-de-2.png" width="48%">
-<img src="./orga/orga-de-3.png" width="48%"><img src="./orga/orga-de-4.png" width="48%">
+<img src="./orga/orga-de-1.png" width="48%"> <img src="./orga/orga-de-2.png" width="48%">
+<img src="./orga/orga-de-3.png" width="48%"> <img src="./orga/orga-de-4.png" width="48%">
 <img src="./orga/orga-de-5.png" width="48%">
 
 ## Speakers
 
-<img src="./speaker/speaker-de-1.png" width="48%"><img src="./speaker/speaker-de-2.png" width="48%">
-<img src="./speaker/speaker-de-3.png" width="48%"><img src="./speaker/speaker-de-4.png" width="48%">
+<img src="./speaker/speaker-de-1.png" width="48%"> <img src="./speaker/speaker-de-2.png" width="48%">
+<img src="./speaker/speaker-de-3.png" width="48%"> <img src="./speaker/speaker-de-4.png" width="48%">
 <img src="./speaker/speaker-de-5.png" width="48%">
 
 ## Sponsors
 
 ### Singular
 
-<img src="./sponsor/sponsor-s-de-1.png" width="48%"><img src="./sponsor/sponsor-s-de-2.png" width="48%">
-<img src="./sponsor/sponsor-s-de-3.png" width="48%"><img src="./sponsor/sponsor-s-de-4.png" width="48%">
+<img src="./sponsor/sponsor-s-de-1.png" width="48%"> <img src="./sponsor/sponsor-s-de-2.png" width="48%">
+<img src="./sponsor/sponsor-s-de-3.png" width="48%"> <img src="./sponsor/sponsor-s-de-4.png" width="48%">
 <img src="./sponsor/sponsor-s-de-5.png" width="48%">
 
 ### Plural
 
-<img src="./sponsor/sponsor-p-de-1.png" width="48%"><img src="./sponsor/sponsor-p-de-2.png" width="48%">
-<img src="./sponsor/sponsor-p-de-3.png" width="48%"><img src="./sponsor/sponsor-p-de-4.png" width="48%">
+<img src="./sponsor/sponsor-p-de-1.png" width="48%"> <img src="./sponsor/sponsor-p-de-2.png" width="48%">
+<img src="./sponsor/sponsor-p-de-3.png" width="48%"> <img src="./sponsor/sponsor-p-de-4.png" width="48%">
 <img src="./sponsor/sponsor-p-de-5.png" width="48%">
 
 ## Volunteers
