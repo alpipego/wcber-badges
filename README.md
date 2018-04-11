@@ -58,7 +58,7 @@ Download the file you wish to use from this repository and upload it to your web
 
 ## License
 
-The WordPress and WordCamp names and logo are licensed by the [http://wordpressfoundation.org/trademark-policy/](WordPress Foundation).  
+The WordPress and WordCamp names and logo are licensed by the [WordPress Foundation](http://wordpressfoundation.org/trademark-policy/).  
 The original background images are copyrighted by [Alexander Goller](https://alexandergoller.com). The right of use have been granted to WordCamp Berlin, the creation of the badges and the use on the webpage for [WordCamp Berlin 2017](https://2017.berlin.wordcamp.org/).<br>
 
 ### Want to create your own version?
